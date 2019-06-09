@@ -461,7 +461,7 @@ def Database():
     cursor.execute("CREATE TABLE IF NOT EXISTS `login` (mem_id INTEGER NOT NULL PRIMARY KEY  AUTOINCREMENT, username TEXT, password TEXT)")
     cursor.execute("SELECT * FROM `login` WHERE `username` = 'admin' AND `password` = 'admin'")
     if cursor.fetchone() is None:
-        cursor.execute("INSERT INTO `login` (username, password) VALUES('Niraj', 'root')")
+        cursor.execute("INSERT INTO `login` (username, password) VALUES('Prakarsha', 'root')")
         conn.commit()
 
 def Login(event=None):

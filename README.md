@@ -29,8 +29,7 @@ pip install pillow
   * run the .py file
   * usename = Prakarsha, password = root
 
-
-* **Screenshots** 
+## Steps to use
 
 **Login Screen**
 ![](screenshots/1.jpg)

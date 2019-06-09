@@ -19,7 +19,7 @@ pip install pillow
 * only the admin has the rights to upload movies/videos and images.
 
 
-## Technologies used :
+## Technologies used 
 * Python and SQL
 * Tkinter for frontend
 

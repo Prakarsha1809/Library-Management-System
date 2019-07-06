@@ -15,8 +15,6 @@ Install the following packages in cmd before use.
 pip install python-tk
 pip install pillow
 ```
-* the one to signup first is the admin
-* only the admin has the rights to upload movies/videos and images.
 
 
 ## Technologies used 
